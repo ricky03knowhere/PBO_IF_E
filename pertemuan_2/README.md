@@ -1,4 +1,4 @@
-## Student CRUD Restful API (Praktikum 3)
+## Student CRUD Restful API - Backend (Praktikum 3)
 -----------------------------------------
 ### Add New Student
 ![add student](img/Screenshot%20(99).png)
@@ -12,7 +12,7 @@
 ![add student](img/Screenshot%20(103).png)
 
 
-## Student CRUD Restful API - Web (Praktikum 4)
+## Student CRUD Restful API - Frontend (Praktikum 4)
 -----------------------------------------
 ### Add New Student
 ![add student](img/Screenshot%202022-03-24%20181241.png)
