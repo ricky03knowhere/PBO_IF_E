@@ -20,4 +20,4 @@
   
 - 📁 [Books Store (UTS Praktikum)](https://github.com/ricky03knowhere/books-store-springboot-web)
   
-  🚀 Deployed at : [https://books-store07.herokuapp.com/](https://student-crud-web.herokuapp.com/)
+  🚀 Deployed at : [https://books-store07.herokuapp.com/](https://books-store07.herokuapp.com/)
