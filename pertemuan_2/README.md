@@ -1,7 +1,11 @@
 ## Student CRUD Restful API - Backend (Praktikum 3)
 -----------------------------------------
+#### 🚀 Deployed at : [https://student-crud-web.herokuapp.com/](https://student-crud-web.herokuapp.com/)
+
+--------------------------------------
+
 ### Add New Student
-![add student](img/Screenshot%20(99).png)
+![add](img/Screenshot%20(99).png)
 ### Get All Student
 ![get student](img/Screenshot%20(100).png)
 ### Get Student By ID

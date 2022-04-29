@@ -1,5 +1,7 @@
 ## Spring-Boot-Forgot-Password (Praktikum 6)
-
+---------------------------
+#### 🚀 Deployed at : [https://login-forgot-password.herokuapp.com](https://login-forgot-password.herokuapp.com)
+--------------------------
 ### Sign Up Page
 ![Sign Up Page](img/Screenshot%202022-04-20%20172647.png "Sign Up Page")
 

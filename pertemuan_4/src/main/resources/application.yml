@@ -2,16 +2,16 @@ server:
   port: 8080
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/password_reset?createDatabaseIfNotExist=true&useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=Asia/Jakarta&useSSL=false
-    username: root
-    password: 
+    url: jdbc:postgresql://ec2-52-5-110-35.compute-1.amazonaws.com/d4v15ajkopi2cc?createDatabaseIfNotExist=true&useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=Asia/Jakarta&useSSL=false
+    username: vtmuxpjscwppij
+    password: c3a7f60002e00d8625e603d6b2d6ca6ad57f18cab13884d76d92b2a7d5d36da7
   jpa:
     hibernate:
       ddl-auto: update
     show-sql: true
     properties:
       hibernate:
-        dialect: org.hibernate.dialect.MySQL8Dialect
+        dialect: org.hibernate.dialect.PostgreSQLDialect
   messages:
     basename: base
   mail:
