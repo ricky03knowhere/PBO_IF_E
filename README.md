@@ -21,3 +21,5 @@
 - 📁 [Books Store (UTS Praktikum)](https://github.com/ricky03knowhere/books-store-springboot-web)
   
   🚀 Deployed at : [https://books-store07.herokuapp.com/](https://books-store07.herokuapp.com/)
+
+- 📁 [SpringBoot AdminLte3 (Praktikum 7)](https://github.com/ricky03knowhere/PBO_IF_E/tree/main/pertemuan_5)
